@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225916200822",
+    "project_id": "hubertandhumphrey-86a17",
+    "storage_bucket": "hubertandhumphrey-86a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225916200822:android:2d21c103b8518dd677fc57",
+        "android_client_info": {
+          "package_name": "com.example.hubertandhumphrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225916200822-kurl183pqjo4tlmkqqkuiqkkadlcfels.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi4wGQn_Z5vVOwvCk_tYCV9eYmtbv-xo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225916200822-kurl183pqjo4tlmkqqkuiqkkadlcfels.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
